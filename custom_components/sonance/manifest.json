@@ -1,0 +1,11 @@
+{
+  "domain": "sonance",
+  "name": "Sonance DSP Amplifier",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/OWNER/ha-sonance",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/OWNER/ha-sonance/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

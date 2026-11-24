@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Sonance DSP amplifier",
+        "data": {"host": "Host", "port": "Port", "model": "Model"}
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_response": "Unexpected response from device"
+    },
+    "abort": {"already_configured": "Device is already configured"}
+  }
+}
